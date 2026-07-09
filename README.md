@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0015-3sum) |
 | [0073-set-matrix-zeroes](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0704-binary-search](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -24,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0015-3sum) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
