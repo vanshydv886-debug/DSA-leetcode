@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0136-single-number](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0169-majority-element) |
 | [0704-binary-search](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0704-binary-search) |
@@ -76,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0206-reverse-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
