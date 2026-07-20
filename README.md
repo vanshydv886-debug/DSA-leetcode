@@ -88,9 +88,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0078-subsets) |
 ## Math
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0002-add-two-numbers) |
+## String
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0022-generate-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
