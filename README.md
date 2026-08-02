@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0169-majority-element) |
 | [0503-next-greater-element-ii](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0704-binary-search) |
+| [0735-asteroid-collision](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0735-asteroid-collision) |
 ## Hash Table
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0054-spiral-matrix) |
+| [0735-asteroid-collision](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0735-asteroid-collision) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0155-min-stack) |
 | [0503-next-greater-element-ii](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0735-asteroid-collision) |
 ## Design
 |  |
 | ------- |
