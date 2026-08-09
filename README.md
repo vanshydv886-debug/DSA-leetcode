@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0055-jump-game) |
 ## Stack
 |  |
 | ------- |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0455-assign-cookies) |
 ## Quicksort
 |  |
