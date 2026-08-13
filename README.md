@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0055-jump-game) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Stack
 |  |
 | ------- |
@@ -169,4 +170,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0455-assign-cookies) |
+## Tree
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
