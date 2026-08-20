@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0455-assign-cookies) |
 | [0503-next-greater-element-ii](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0503-next-greater-element-ii) |
+| [0542-01-matrix](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0542-01-matrix) |
 | [0704-binary-search](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0735-asteroid-collision) |
 | [0904-fruit-into-baskets](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0904-fruit-into-baskets) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0542-01-matrix](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0994-rotting-oranges) |
 ## Two Pointers
 |  |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0542-01-matrix](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0542-01-matrix) |
 ## Stack
 |  |
 | ------- |
@@ -199,5 +202,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0112-path-sum](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0226-invert-binary-tree) |
+| [0542-01-matrix](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
