@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0735-asteroid-collision) |
 | [0904-fruit-into-baskets](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0904-fruit-into-baskets) |
 | [0994-rotting-oranges](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/1020-number-of-enclaves) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Hash Table
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/1020-number-of-enclaves) |
 ## Two Pointers
 |  |
 | ------- |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0130-surrounded-regions) |
 | [0226-invert-binary-tree](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0226-invert-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/1020-number-of-enclaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -212,8 +215,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0226-invert-binary-tree) |
 | [0542-01-matrix](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/1020-number-of-enclaves) |
 ## Union-Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0130-surrounded-regions) |
+| [1020-number-of-enclaves](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/1020-number-of-enclaves) |
 <!---LeetCode Topics End-->
