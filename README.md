@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0503-next-greater-element-ii) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0455-assign-cookies) |
 ## Sorting
 |  |
