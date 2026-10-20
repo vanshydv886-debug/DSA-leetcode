@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0496-next-greater-element-i) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0904-fruit-into-baskets) |
 ## Matrix
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0455-assign-cookies) |
 ## Binary Search
 |  |
