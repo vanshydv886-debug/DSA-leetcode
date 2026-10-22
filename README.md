@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0503-next-greater-element-ii) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0455-assign-cookies) |
 ## Sorting
 |  |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0704-binary-search) |
 ## Simulation
 |  |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -231,4 +235,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0130-surrounded-regions) |
 | [1020-number-of-enclaves](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/1020-number-of-enclaves) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
