@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0189-rotate-array) |
+| [0837-new-21-game](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0837-new-21-game) |
 ## String
 |  |
 | ------- |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0152-maximum-product-subarray) |
 | [0542-01-matrix](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0542-01-matrix) |
+| [0837-new-21-game](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0837-new-21-game) |
 ## Stack
 |  |
 | ------- |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0837-new-21-game](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0837-new-21-game) |
 | [0904-fruit-into-baskets](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0904-fruit-into-baskets) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
@@ -247,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0287-find-the-duplicate-number) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0837-new-21-game](https://github.com/vanshydv886-debug/DSA-leetcode/tree/master/0837-new-21-game) |
 <!---LeetCode Topics End-->
